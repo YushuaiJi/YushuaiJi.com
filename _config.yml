@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![Image](https://github.com/user-attachments/assets/783fab75-aaa8-4fc2-8b7a-c2f1aaf84737)
+  avatar           : "Ji.jpg"
   name             : "Yushuai Ji"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
